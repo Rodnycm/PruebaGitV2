@@ -488,7 +488,11 @@ Partial Class PantallaObjetoCeleste
         '
         'TextBox1
         '
+<<<<<<< HEAD
         Me.TextBox1.Location = New System.Drawing.Point(757, 298)
+=======
+        Me.TextBox1.Location = New System.Drawing.Point(738, 286)
+>>>>>>> P2Rodny
         Me.TextBox1.Name = "TextBox1"
         Me.TextBox1.Size = New System.Drawing.Size(100, 20)
         Me.TextBox1.TabIndex = 85
@@ -496,11 +500,19 @@ Partial Class PantallaObjetoCeleste
         'Label1
         '
         Me.Label1.AutoSize = True
+<<<<<<< HEAD
         Me.Label1.Location = New System.Drawing.Point(569, 308)
         Me.Label1.Name = "Label1"
         Me.Label1.Size = New System.Drawing.Size(30, 13)
         Me.Label1.TabIndex = 84
         Me.Label1.Text = "amor"
+=======
+        Me.Label1.Location = New System.Drawing.Point(550, 296)
+        Me.Label1.Name = "Label1"
+        Me.Label1.Size = New System.Drawing.Size(31, 13)
+        Me.Label1.TabIndex = 84
+        Me.Label1.Text = "Amor"
+>>>>>>> P2Rodny
         '
         'PantallaObjetoCeleste
         '
