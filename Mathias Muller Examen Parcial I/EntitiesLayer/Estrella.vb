@@ -17,6 +17,8 @@
         setIntensidadLuminica(pintensidadLuminca)
         setTamano(ptamano)
 
+        'adsasdasdasdasdasdasda()
+        'adsasda()
     End Sub
 
     Public Function getId()
