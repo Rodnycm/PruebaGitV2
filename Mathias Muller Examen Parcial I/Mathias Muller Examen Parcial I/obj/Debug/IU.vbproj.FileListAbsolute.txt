@@ -26,3 +26,7 @@ C:\Users\Mathias\Documents\Visual Studio 2013\Projects\Mathias Muller Examen Par
 C:\Users\Mathias\Documents\Visual Studio 2013\Projects\Mathias Muller Examen Parcial I\Mathias Muller Examen Parcial I\obj\Debug\Mathias_Muller_Examen_Parcial_I.AsignacionSatelite.resources
 C:\Users\Mathias\Documents\Visual Studio 2013\Projects\Mathias Muller Examen Parcial I\Mathias Muller Examen Parcial I\obj\Debug\Mathias_Muller_Examen_Parcial_I.PantallaPlanetaAsignacion.resources
 C:\Users\Mathias\Documents\Visual Studio 2013\Projects\Mathias Muller Examen Parcial I\Mathias Muller Examen Parcial I\obj\Debug\Mathias_Muller_Examen_Parcial_I.PantallaConsultarMisiones.resources
+C:\Users\Mathias\Documents\GitHub\PruebaGitV2\Mathias Muller Examen Parcial I\Mathias Muller Examen Parcial I\bin\Debug\Mathias Muller Examen Parcial I.exe.config
+C:\Users\Mathias\Documents\GitHub\PruebaGitV2\Mathias Muller Examen Parcial I\Mathias Muller Examen Parcial I\obj\Debug\Mathias Muller Examen Parcial I.exe
+C:\Users\Mathias\Documents\GitHub\PruebaGitV2\Mathias Muller Examen Parcial I\Mathias Muller Examen Parcial I\obj\Debug\Mathias Muller Examen Parcial I.xml
+C:\Users\Mathias\Documents\GitHub\PruebaGitV2\Mathias Muller Examen Parcial I\Mathias Muller Examen Parcial I\obj\Debug\Mathias Muller Examen Parcial I.pdb
