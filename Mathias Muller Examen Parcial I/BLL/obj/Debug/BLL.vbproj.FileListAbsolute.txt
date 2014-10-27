@@ -1,0 +1,15 @@
+C:\Users\Mathias\Documents\Visual Studio 2013\Projects\Mathias Muller Examen Parcial I\BLL\bin\Debug\BLL.dll
+C:\Users\Mathias\Documents\Visual Studio 2013\Projects\Mathias Muller Examen Parcial I\BLL\bin\Debug\BLL.pdb
+C:\Users\Mathias\Documents\Visual Studio 2013\Projects\Mathias Muller Examen Parcial I\BLL\bin\Debug\BLL.xml
+C:\Users\Mathias\Documents\Visual Studio 2013\Projects\Mathias Muller Examen Parcial I\BLL\obj\Debug\BLL.Resources.resources
+C:\Users\Mathias\Documents\Visual Studio 2013\Projects\Mathias Muller Examen Parcial I\BLL\obj\Debug\BLL.vbproj.GenerateResource.Cache
+C:\Users\Mathias\Documents\Visual Studio 2013\Projects\Mathias Muller Examen Parcial I\BLL\obj\Debug\BLL.dll
+C:\Users\Mathias\Documents\Visual Studio 2013\Projects\Mathias Muller Examen Parcial I\BLL\obj\Debug\BLL.xml
+C:\Users\Mathias\Documents\Visual Studio 2013\Projects\Mathias Muller Examen Parcial I\BLL\obj\Debug\BLL.pdb
+C:\Users\Mathias\Documents\Visual Studio 2013\Projects\Mathias Muller Examen Parcial I\BLL\bin\Debug\DAL.dll
+C:\Users\Mathias\Documents\Visual Studio 2013\Projects\Mathias Muller Examen Parcial I\BLL\bin\Debug\EntitiesLayer.dll
+C:\Users\Mathias\Documents\Visual Studio 2013\Projects\Mathias Muller Examen Parcial I\BLL\bin\Debug\DAL.pdb
+C:\Users\Mathias\Documents\Visual Studio 2013\Projects\Mathias Muller Examen Parcial I\BLL\bin\Debug\DAL.xml
+C:\Users\Mathias\Documents\Visual Studio 2013\Projects\Mathias Muller Examen Parcial I\BLL\bin\Debug\EntitiesLayer.pdb
+C:\Users\Mathias\Documents\Visual Studio 2013\Projects\Mathias Muller Examen Parcial I\BLL\bin\Debug\EntitiesLayer.xml
+C:\Users\Mathias\Documents\Visual Studio 2013\Projects\Mathias Muller Examen Parcial I\BLL\obj\Debug\BLL.vbprojResolveAssemblyReference.cache

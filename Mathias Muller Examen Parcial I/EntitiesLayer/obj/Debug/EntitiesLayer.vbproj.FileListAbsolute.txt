@@ -1,0 +1,8 @@
+C:\Users\Mathias\Documents\Visual Studio 2013\Projects\Mathias Muller Examen Parcial I\EntitiesLayer\bin\Debug\EntitiesLayer.dll
+C:\Users\Mathias\Documents\Visual Studio 2013\Projects\Mathias Muller Examen Parcial I\EntitiesLayer\bin\Debug\EntitiesLayer.pdb
+C:\Users\Mathias\Documents\Visual Studio 2013\Projects\Mathias Muller Examen Parcial I\EntitiesLayer\bin\Debug\EntitiesLayer.xml
+C:\Users\Mathias\Documents\Visual Studio 2013\Projects\Mathias Muller Examen Parcial I\EntitiesLayer\obj\Debug\EntitiesLayer.Resources.resources
+C:\Users\Mathias\Documents\Visual Studio 2013\Projects\Mathias Muller Examen Parcial I\EntitiesLayer\obj\Debug\EntitiesLayer.vbproj.GenerateResource.Cache
+C:\Users\Mathias\Documents\Visual Studio 2013\Projects\Mathias Muller Examen Parcial I\EntitiesLayer\obj\Debug\EntitiesLayer.dll
+C:\Users\Mathias\Documents\Visual Studio 2013\Projects\Mathias Muller Examen Parcial I\EntitiesLayer\obj\Debug\EntitiesLayer.xml
+C:\Users\Mathias\Documents\Visual Studio 2013\Projects\Mathias Muller Examen Parcial I\EntitiesLayer\obj\Debug\EntitiesLayer.pdb

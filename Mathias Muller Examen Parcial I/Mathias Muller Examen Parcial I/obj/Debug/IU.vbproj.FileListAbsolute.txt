@@ -1,0 +1,28 @@
+C:\Users\Mathias\Documents\Visual Studio 2013\Projects\Mathias Muller Examen Parcial I\Mathias Muller Examen Parcial I\obj\Debug\IU.vbprojResolveAssemblyReference.cache
+C:\Users\Mathias\Documents\Visual Studio 2013\Projects\Mathias Muller Examen Parcial I\Mathias Muller Examen Parcial I\obj\Debug\Mathias_Muller_Examen_Parcial_I.Resources.resources
+C:\Users\Mathias\Documents\Visual Studio 2013\Projects\Mathias Muller Examen Parcial I\Mathias Muller Examen Parcial I\obj\Debug\Mathias_Muller_Examen_Parcial_I.PantallaConsultarObjeto.resources
+C:\Users\Mathias\Documents\Visual Studio 2013\Projects\Mathias Muller Examen Parcial I\Mathias Muller Examen Parcial I\obj\Debug\Mathias_Muller_Examen_Parcial_I.PantallaConsultarPrograma.resources
+C:\Users\Mathias\Documents\Visual Studio 2013\Projects\Mathias Muller Examen Parcial I\Mathias Muller Examen Parcial I\obj\Debug\Mathias_Muller_Examen_Parcial_I.PantallaMision.resources
+C:\Users\Mathias\Documents\Visual Studio 2013\Projects\Mathias Muller Examen Parcial I\Mathias Muller Examen Parcial I\obj\Debug\Mathias_Muller_Examen_Parcial_I.PantallaObjetoCeleste.resources
+C:\Users\Mathias\Documents\Visual Studio 2013\Projects\Mathias Muller Examen Parcial I\Mathias Muller Examen Parcial I\obj\Debug\Mathias_Muller_Examen_Parcial_I.PantallaPrincipal.resources
+C:\Users\Mathias\Documents\Visual Studio 2013\Projects\Mathias Muller Examen Parcial I\Mathias Muller Examen Parcial I\obj\Debug\Mathias_Muller_Examen_Parcial_I.PantallaProgramaEspacial.resources
+C:\Users\Mathias\Documents\Visual Studio 2013\Projects\Mathias Muller Examen Parcial I\Mathias Muller Examen Parcial I\obj\Debug\IU.vbproj.GenerateResource.Cache
+C:\Users\Mathias\Documents\Visual Studio 2013\Projects\Mathias Muller Examen Parcial I\Mathias Muller Examen Parcial I\obj\Debug\Mathias Muller Examen Parcial I.exe
+C:\Users\Mathias\Documents\Visual Studio 2013\Projects\Mathias Muller Examen Parcial I\Mathias Muller Examen Parcial I\obj\Debug\Mathias Muller Examen Parcial I.xml
+C:\Users\Mathias\Documents\Visual Studio 2013\Projects\Mathias Muller Examen Parcial I\Mathias Muller Examen Parcial I\obj\Debug\Mathias Muller Examen Parcial I.pdb
+C:\Users\Mathias\Documents\Visual Studio 2013\Projects\Mathias Muller Examen Parcial I\Mathias Muller Examen Parcial I\bin\Debug\Mathias Muller Examen Parcial I.exe.config
+C:\Users\Mathias\Documents\Visual Studio 2013\Projects\Mathias Muller Examen Parcial I\Mathias Muller Examen Parcial I\bin\Debug\Mathias Muller Examen Parcial I.exe
+C:\Users\Mathias\Documents\Visual Studio 2013\Projects\Mathias Muller Examen Parcial I\Mathias Muller Examen Parcial I\bin\Debug\Mathias Muller Examen Parcial I.pdb
+C:\Users\Mathias\Documents\Visual Studio 2013\Projects\Mathias Muller Examen Parcial I\Mathias Muller Examen Parcial I\bin\Debug\Mathias Muller Examen Parcial I.xml
+C:\Users\Mathias\Documents\Visual Studio 2013\Projects\Mathias Muller Examen Parcial I\Mathias Muller Examen Parcial I\bin\Debug\BLL.dll
+C:\Users\Mathias\Documents\Visual Studio 2013\Projects\Mathias Muller Examen Parcial I\Mathias Muller Examen Parcial I\bin\Debug\BLL.pdb
+C:\Users\Mathias\Documents\Visual Studio 2013\Projects\Mathias Muller Examen Parcial I\Mathias Muller Examen Parcial I\bin\Debug\BLL.xml
+C:\Users\Mathias\Documents\Visual Studio 2013\Projects\Mathias Muller Examen Parcial I\Mathias Muller Examen Parcial I\bin\Debug\EntitiesLayer.dll
+C:\Users\Mathias\Documents\Visual Studio 2013\Projects\Mathias Muller Examen Parcial I\Mathias Muller Examen Parcial I\bin\Debug\DAL.dll
+C:\Users\Mathias\Documents\Visual Studio 2013\Projects\Mathias Muller Examen Parcial I\Mathias Muller Examen Parcial I\bin\Debug\EntitiesLayer.pdb
+C:\Users\Mathias\Documents\Visual Studio 2013\Projects\Mathias Muller Examen Parcial I\Mathias Muller Examen Parcial I\bin\Debug\EntitiesLayer.xml
+C:\Users\Mathias\Documents\Visual Studio 2013\Projects\Mathias Muller Examen Parcial I\Mathias Muller Examen Parcial I\bin\Debug\DAL.pdb
+C:\Users\Mathias\Documents\Visual Studio 2013\Projects\Mathias Muller Examen Parcial I\Mathias Muller Examen Parcial I\bin\Debug\DAL.xml
+C:\Users\Mathias\Documents\Visual Studio 2013\Projects\Mathias Muller Examen Parcial I\Mathias Muller Examen Parcial I\obj\Debug\Mathias_Muller_Examen_Parcial_I.AsignacionSatelite.resources
+C:\Users\Mathias\Documents\Visual Studio 2013\Projects\Mathias Muller Examen Parcial I\Mathias Muller Examen Parcial I\obj\Debug\Mathias_Muller_Examen_Parcial_I.PantallaPlanetaAsignacion.resources
+C:\Users\Mathias\Documents\Visual Studio 2013\Projects\Mathias Muller Examen Parcial I\Mathias Muller Examen Parcial I\obj\Debug\Mathias_Muller_Examen_Parcial_I.PantallaConsultarMisiones.resources

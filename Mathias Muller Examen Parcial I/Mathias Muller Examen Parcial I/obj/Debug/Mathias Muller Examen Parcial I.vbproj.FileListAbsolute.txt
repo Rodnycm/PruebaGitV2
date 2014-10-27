@@ -1,0 +1,20 @@
+c:\users\mathias\documents\visual studio 2013\Projects\Mathias Muller Examen Parcial I\Mathias Muller Examen Parcial I\bin\Debug\Mathias Muller Examen Parcial I.exe.config
+c:\users\mathias\documents\visual studio 2013\Projects\Mathias Muller Examen Parcial I\Mathias Muller Examen Parcial I\bin\Debug\Mathias Muller Examen Parcial I.exe
+c:\users\mathias\documents\visual studio 2013\Projects\Mathias Muller Examen Parcial I\Mathias Muller Examen Parcial I\bin\Debug\Mathias Muller Examen Parcial I.pdb
+c:\users\mathias\documents\visual studio 2013\Projects\Mathias Muller Examen Parcial I\Mathias Muller Examen Parcial I\bin\Debug\Mathias Muller Examen Parcial I.xml
+c:\users\mathias\documents\visual studio 2013\Projects\Mathias Muller Examen Parcial I\Mathias Muller Examen Parcial I\obj\Debug\Mathias_Muller_Examen_Parcial_I.frmObjectoCeleste.resources
+c:\users\mathias\documents\visual studio 2013\Projects\Mathias Muller Examen Parcial I\Mathias Muller Examen Parcial I\obj\Debug\Mathias_Muller_Examen_Parcial_I.frmEstrella.resources
+c:\users\mathias\documents\visual studio 2013\Projects\Mathias Muller Examen Parcial I\Mathias Muller Examen Parcial I\obj\Debug\Mathias_Muller_Examen_Parcial_I.frmPlaneta.resources
+c:\users\mathias\documents\visual studio 2013\Projects\Mathias Muller Examen Parcial I\Mathias Muller Examen Parcial I\obj\Debug\Mathias_Muller_Examen_Parcial_I.Resources.resources
+c:\users\mathias\documents\visual studio 2013\Projects\Mathias Muller Examen Parcial I\Mathias Muller Examen Parcial I\obj\Debug\Mathias Muller Examen Parcial I.vbproj.GenerateResource.Cache
+c:\users\mathias\documents\visual studio 2013\Projects\Mathias Muller Examen Parcial I\Mathias Muller Examen Parcial I\obj\Debug\Mathias Muller Examen Parcial I.exe
+c:\users\mathias\documents\visual studio 2013\Projects\Mathias Muller Examen Parcial I\Mathias Muller Examen Parcial I\obj\Debug\Mathias Muller Examen Parcial I.xml
+c:\users\mathias\documents\visual studio 2013\Projects\Mathias Muller Examen Parcial I\Mathias Muller Examen Parcial I\obj\Debug\Mathias Muller Examen Parcial I.pdb
+C:\Users\Mathias\Documents\Visual Studio 2013\Projects\Mathias Muller Examen Parcial I\Mathias Muller Examen Parcial I\obj\Debug\Mathias_Muller_Examen_Parcial_I.Form4.resources
+C:\Users\Mathias\Documents\Visual Studio 2013\Projects\Mathias Muller Examen Parcial I\Mathias Muller Examen Parcial I\obj\Debug\Mathias_Muller_Examen_Parcial_I.PantallaObjetoCeleste.resources
+C:\Users\Mathias\Documents\Visual Studio 2013\Projects\Mathias Muller Examen Parcial I\Mathias Muller Examen Parcial I\obj\Debug\Mathias_Muller_Examen_Parcial_I.PantallaPrincipal.resources
+C:\Users\Mathias\Documents\Visual Studio 2013\Projects\Mathias Muller Examen Parcial I\Mathias Muller Examen Parcial I\obj\Debug\Mathias_Muller_Examen_Parcial_I.PantallaProgramaEspacial.resources
+C:\Users\Mathias\Documents\Visual Studio 2013\Projects\Mathias Muller Examen Parcial I\Mathias Muller Examen Parcial I\obj\Debug\Mathias Muller Examen Parcial I.vbprojResolveAssemblyReference.cache
+C:\Users\Mathias\Documents\Visual Studio 2013\Projects\Mathias Muller Examen Parcial I\Mathias Muller Examen Parcial I\obj\Debug\Mathias_Muller_Examen_Parcial_I.PantallaConsultarObjeto.resources
+C:\Users\Mathias\Documents\Visual Studio 2013\Projects\Mathias Muller Examen Parcial I\Mathias Muller Examen Parcial I\obj\Debug\Mathias_Muller_Examen_Parcial_I.PantallaConsultarPrograma.resources
+C:\Users\Mathias\Documents\Visual Studio 2013\Projects\Mathias Muller Examen Parcial I\Mathias Muller Examen Parcial I\obj\Debug\Mathias_Muller_Examen_Parcial_I.PantallaMision.resources
