@@ -366,7 +366,7 @@ Public Class PantallaObjetoCeleste
 
     End Sub
 
-    
+
     Private Sub PantallaObjetoCeleste_Load(sender As Object, e As EventArgs) Handles MyBase.Load
 
     End Sub
