@@ -65,6 +65,8 @@ Partial Class PantallaObjetoCeleste
         Me.txtDistMediaSatelite = New System.Windows.Forms.TextBox()
         Me.txtCaracteristicas = New System.Windows.Forms.TextBox()
         Me.lblCaracteristicas = New System.Windows.Forms.Label()
+        Me.TextBox1 = New System.Windows.Forms.TextBox()
+        Me.Label1 = New System.Windows.Forms.Label()
         Me.pnlEstrella.SuspendLayout()
         Me.pnlPlaneta.SuspendLayout()
         Me.pnlSatelite.SuspendLayout()
@@ -484,11 +486,41 @@ Partial Class PantallaObjetoCeleste
         Me.lblCaracteristicas.TabIndex = 72
         Me.lblCaracteristicas.Text = "Caracteristicas"
         '
+        'TextBox1
+        '
+<<<<<<< HEAD
+        Me.TextBox1.Location = New System.Drawing.Point(757, 298)
+=======
+        Me.TextBox1.Location = New System.Drawing.Point(738, 286)
+>>>>>>> P2Rodny
+        Me.TextBox1.Name = "TextBox1"
+        Me.TextBox1.Size = New System.Drawing.Size(100, 20)
+        Me.TextBox1.TabIndex = 85
+        '
+        'Label1
+        '
+        Me.Label1.AutoSize = True
+<<<<<<< HEAD
+        Me.Label1.Location = New System.Drawing.Point(569, 308)
+        Me.Label1.Name = "Label1"
+        Me.Label1.Size = New System.Drawing.Size(30, 13)
+        Me.Label1.TabIndex = 84
+        Me.Label1.Text = "amor"
+=======
+        Me.Label1.Location = New System.Drawing.Point(550, 296)
+        Me.Label1.Name = "Label1"
+        Me.Label1.Size = New System.Drawing.Size(31, 13)
+        Me.Label1.TabIndex = 84
+        Me.Label1.Text = "Amor"
+>>>>>>> P2Rodny
+        '
         'PantallaObjetoCeleste
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(993, 608)
+        Me.Controls.Add(Me.TextBox1)
+        Me.Controls.Add(Me.Label1)
         Me.Controls.Add(Me.pnlSatelite)
         Me.Controls.Add(Me.pnlPlaneta)
         Me.Controls.Add(Me.pnlEstrella)
@@ -563,4 +595,6 @@ Partial Class PantallaObjetoCeleste
     Friend WithEvents txtDistMediaSatelite As System.Windows.Forms.TextBox
     Friend WithEvents txtCaracteristicas As System.Windows.Forms.TextBox
     Friend WithEvents lblCaracteristicas As System.Windows.Forms.Label
+    Friend WithEvents TextBox1 As System.Windows.Forms.TextBox
+    Friend WithEvents Label1 As System.Windows.Forms.Label
 End Class
