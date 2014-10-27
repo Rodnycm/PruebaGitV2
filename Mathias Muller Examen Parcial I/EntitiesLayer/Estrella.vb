@@ -19,9 +19,6 @@
 
     End Sub
 
-    Sub crearamor()
-
-    End Sub
 
 
     Public Function getId()
